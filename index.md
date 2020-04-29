@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is a content title.
 
 You can use the [editor on GitHub](https://github.com/wxynina/test_web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
